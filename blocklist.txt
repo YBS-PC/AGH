@@ -168,3 +168,4 @@
 0.0.0.0 zdravselhoz.com
 0.0.0.0 ldahtkg.cn
 0.0.0.0 agsupdate.adobe.com
+0.0.0.0 bropu2.com
