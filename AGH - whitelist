@@ -254,7 +254,7 @@
 @@||an.yandex.ru^
 @@||mc.yandex.ru^
 @@||log.strm.yandex.ru^
-@@||adfstat.yandex.ru^
+||adfstat.yandex.ru^$important
 @@||appmetrica.yandex.net^
 # yandex.ru, yandex.net, yandex.com, minbank.ru, cdn-tinkoff.ru, tinkoff.ru, sberbank.ru, rshb.ru, icloud.com.akadns.net, apple.com.akadns.net, icloud.com, apple.com, apple-dns.net, mzstatic.com, itunes-apple.com.akadns.net, itunes-nocookie.com
 @@||minbank.ru^
