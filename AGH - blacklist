@@ -15,11 +15,12 @@
 ||ads.reddit.com^
 ||ads.tiktok.com^
 ||ads.yahoo.com^
-||ads.yandex.ru^$important
+||ads.yandex.ru$important^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
 ||adsdk.yandex.ru^
 ||adultsonly.pro^
+||agsupdate.adobe.com^
 ||ali-crm.ru^
 ||ammo.consultant.ru^
 ||analytics.facebook.com^
@@ -32,8 +33,7 @@
 ||appmetrica.yandex.com^
 ||apps.corel.com^
 ||arb.consultant.ru^
-||agsupdate.adobe.com^
-# ||ardownload2.adobe.com^
+||ar-bg.ru^
 ||aritcametu.com^
 ||armmf.adobe.com^
 ||astn.consultant.ru^
@@ -43,7 +43,10 @@
 ||best.aliexpress.ru^
 ||beyblade.ru.com^
 ||bingads.microsoft.com^
+||bitrix.slfarma.ru^
 ||blog.halalgoogling.com^
+||bongacams10.com^
+||bropu2.com^
 ||browser.sentry-cdn.com^
 ||cc-api-data.adobe.io^
 ||cdn.appround.biz^
@@ -57,11 +60,13 @@
 ||chemtable.com^
 ||cl1.consultant.ru^
 ||cl2.consultant.ru^
+||clickgate01.biz^
 ||client.consultant.ru^
 ||client.messaging.adobe.com^
 ||cloud.acrobat.com^
 ||cloud-fes-ru2.acronis.com^
 ||cloud-rs-ru2.acronis.com^
+||complexcare.biz^
 ||computer76.ru^
 ||cons-plus.ru^
 ||consrobot.by^
@@ -83,6 +88,7 @@
 ||events.redditmedia.com^
 ||extmaps-api.yandex.net^
 ||forumyuristov.ru^
+||frameboxxindore.com^
 ||freshmarketer.com^
 ||genuine.adobe.com^
 ||genuine.adobe.com.rt-ac88u^
@@ -92,6 +98,7 @@
 ||hlrcv.stage.adobe.com^
 ||hotjar.com^
 ||inno.bisrv.com^
+||instagramis.ru^
 ||installer.betterinstaller.com^
 ||installer.filebulldog.com^
 ||interesimir.ru^
@@ -99,6 +106,9 @@
 ||iws.corel.com^
 ||lcs-cops.adobe.io^
 ||lcs-robs.adobe.io^
+||ldahtkg.cn^
+||lenta.servicecdn.ru^
+||linkmy.cc^
 ||lite.consultant.ru^
 ||lm.licenses.adobe.com^
 ||lmlicenses.wip4.adobe.com^
@@ -113,7 +123,9 @@
 ||myslide.ru^
 ||na1e.services.adobe.com^
 ||na1r.services.adobe.com^
+||ncheckout.com^
 ||new.loten.ru.com^
+||news-batiti.cc^
 ||notify.bugsnag.com^
 ||nsis.bisrv.com^
 ||nvda.d2.sc.omtrdc.net^
@@ -126,6 +138,7 @@
 ||purerelationship.net^
 ||pushcleansystem.com^
 ||pushwelcome.com^
+||rbfxdirect.com^
 ||rpc.acronis.com^
 ||s.click.aliexpress.com^
 ||saztirulo.com^
@@ -166,20 +179,3 @@
 ||www2.consultant.ru^
 ||yandexadexchange.net^
 ||zdravselhoz.com^
-||ldahtkg.cn^
-||agsupdate.adobe.com^
-||bropu2.com^
-||clickgate01.biz^
-||bongacams10.com^
-||clickgate01.biz^
-||bongacams10.com^
-||ncheckout.com^
-||rbfxdirect.com^
-||bitrix.slfarma.ru^
-||lenta.servicecdn.ru^
-||news-batiti.cc^
-||complexcare.biz^
-||frameboxxindore.com^
-||instagramis.ru^
-||ar-bg.ru^
-||linkmy.cc^
