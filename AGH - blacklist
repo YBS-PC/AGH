@@ -15,7 +15,7 @@
 ||ads.reddit.com^
 ||ads.tiktok.com^
 ||ads.yahoo.com^
-||ads.yandex.ru$important^
+||ads.yandex.ru^$important
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
 ||adsdk.yandex.ru^
