@@ -297,11 +297,14 @@
 @@||yandex.st^
 @@||youtu.be^
 @@||youtube-nocookie.com^
-@@||yt3.ggpht.com^
 @@||zee.cws.conviva.com^
 #
 #
 #
 ||adfstat.yandex.ru$important^
+# @@||yt3.ggpht.com^
+#
+#
+#
 # @@|| yandex.ru, yandex.net, yandex.com, minbank.ru, cdn-tinkoff.ru, tinkoff.ru, sberbank.ru, rshb.ru, icloud.com.akadns.net, apple.com.akadns.net, icloud.com, apple.com, apple-dns.net, mzstatic.com, itunes-apple.com.akadns.net, itunes-nocookie.com
 # ||yt3.ggpht.com^$dnsrewrite=NOERROR;CNAME;yt4.ggpht.com
