@@ -270,3 +270,4 @@
 @@||mzstatic.com^
 @@||itunes-apple.com.akadns.net^
 @@||itunes-nocookie.com^
+||yt3.ggpht.com^$dnsrewrite=NOERROR;CNAME;yt4.ggpht.com
