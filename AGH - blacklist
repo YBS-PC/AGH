@@ -2,6 +2,7 @@
 ! Description: Blacklist for use with AdGuard.
 #
 ||aan.amazon.com^
+||acrobat.com^
 ||acroipm.adobe.com^
 ||acroipm2.adobe.com^
 ||acronis.com^
@@ -10,15 +11,17 @@
 ||adobe.com^
 ||adobe.io^
 ||adobedtm.com^
+||adobegenuine.com^
+||adobelogin.com^
 ||ads.facebook.com^
 ||ads.pinterest.com^
 ||ads.reddit.com^
 ||ads.tiktok.com^
 ||ads.yahoo.com^
-||ads.yandex.ru^$important
+||ads.yandex.ru^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
-||adsdk.yandex.ru^
+||adsdk.yandex.ru^$important
 ||adultsonly.pro^
 ||agsupdate.adobe.com^
 ||ali-crm.ru^
@@ -61,6 +64,7 @@
 ||cl1.consultant.ru^
 ||cl2.consultant.ru^
 ||clickgate01.biz^
+||clicktroute.com^
 ||client.consultant.ru^
 ||client.messaging.adobe.com^
 ||cloud.acrobat.com^
@@ -90,8 +94,8 @@
 ||forumyuristov.ru^
 ||frameboxxindore.com^
 ||freshmarketer.com^
-||genuine.adobe.com^
 ||genuine.adobe.com.rt-ac88u^
+||genuine.adobe.com^
 ||geo2.adobe.com^
 ||getad.xyz^
 ||global.adserver.yahoo.com^
@@ -170,6 +174,9 @@
 ||web-api-vmp.acronis.com^
 ||weblife.goodly.pro^
 ||web-zarabotok.info^
+||wemoneyttr.com^
+||wemyprosttr.com^
+||weplayingttr.com^
 ||widgets.pinterest.com^
 ||www.adobe.com^
 ||www.cons-plus.ru^
@@ -179,9 +186,3 @@
 ||www2.consultant.ru^
 ||yandexadexchange.net^
 ||zdravselhoz.com^
-||wemyprosttr.com^
-||frameboxxindore.com^
-||wemoneyttr.com^
-||weplayingttr.com^
-||clicktroute.com^
-||weplayingttr.com^
