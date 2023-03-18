@@ -1,1 +1,2 @@
 ||yt3.ggpht.com^$dnsrewrite=NOERROR;CNAME;yt4.ggpht.com
+||yt3.ggpht.com^$dnsrewrite=NOERROR;HTTPS;32 yt4.ggpht.com alpn=h3
