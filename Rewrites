@@ -1,1 +1,2 @@
-||yt3.ggpht.com^$dnsrewrite=NOERROR;HTTPS;CNAME;yt4.ggpht.com
+||yt3.ggpht.com^$dnsrewrite=NOERROR;CNAME;yt4.ggpht.com
+||yt3.googleusercontent.com^$dnsrewrite=NOERROR;CNAME;yt4.googleusercontent.com
