@@ -304,6 +304,10 @@
 @@||c.bing.com^$important^
 #
 #
+@@||yandexmetrica.com^
+@@||googletagmanager.com^
+@@||startup-mobile.ap.yandex-net.ru^
+@@||startup.mobile.yandex.net^
 #
 ||adfstat.yandex.ru$important^
 # @@||yt3.ggpht.com^
