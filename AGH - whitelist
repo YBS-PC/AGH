@@ -17,7 +17,7 @@
 @@||alipay.com^
 @@||amazonaws.com^
 @@||a-msedge.net^
-@@||an.yandex.ru^
+##@@||an.yandex.ru^
 @@||android.clients.google.com^
 @@||api.ipify.org^
 @@||api.rlje.net^
@@ -122,7 +122,7 @@
 @@||giphy.com^
 @@||github.com^
 @@||github.io^
-@@||googleapis.com^
+##@@||googleapis.com^
 @@||google-public-dns-a.google.com^
 @@||gravatar.com^
 @@||gstatic.com^
@@ -303,7 +303,7 @@
 ###
 @@||c.bing.com^$important^
 #
-@@||app-measurement.com^
+##@@||app-measurement.com^
 #
 #
 @@||yandexmetrica.com^
