@@ -1,0 +1,10 @@
+! Title: AGH - tags
+! Description: Blacklist for use with AdGuard ctag modifier.
+#
+||blizzard.com^$ctag=user_child
+||battle.net^$ctag=user_child
+||wbagora.com^$ctag=user_child
+||wbinsights.com^$ctag=user_child
+||unity3d.com.edgekey.net^$ctag=user_child
+||unity3dusercontent.com.edgesuite.net^$ctag=user_child
+||unity3d.com^$ctag=user_child
