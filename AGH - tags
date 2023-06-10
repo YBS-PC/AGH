@@ -1,5 +1,8 @@
 ! Title: AGH - tags
 ! Description: Blacklist for use with AdGuard ctag modifier.
+##
+##
+# user_child, device_phone
 #
 ||blizzard.com^$important,ctag=user_child,ctag=device_phone
 ||battle.net^$important,ctag=user_child,ctag=device_phone
@@ -8,3 +11,15 @@
 ||unity3d.com.edgekey.net^$important,ctag=user_child,ctag=device_phone
 ||unity3dusercontent.com.edgesuite.net^$important,ctag=user_child,ctag=device_phone
 ||unity3d.com^$important,ctag=user_child,ctag=device_phone
+##
+##
+# device_securityalarm
+#
+@@||yandex.ru^$important,ctag=device_securityalarm
+@@||google.com^$important,ctag=device_securityalarm
+@@||googleapis.com^$important,ctag=device_securityalarm
+@@||i.ytimg.com^$important,ctag=device_securityalarm
+@@||app-measurement.com^$important,ctag=device_securityalarm
+@@||googletagmanager.com^$important,ctag=device_securityalarm
+@@||yandex.net^$important,ctag=device_securityalarm
+@@||yandex.com^$important,ctag=device_securityalarm
