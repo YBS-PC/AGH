@@ -23,3 +23,6 @@
 @@||googletagmanager.com^$important,ctag=device_securityalarm
 @@||yandex.net^$important,ctag=device_securityalarm
 @@||yandex.com^$important,ctag=device_securityalarm
+@@||yandex-net.ru^$important,ctag=device_securityalarm
+@@||yandexmetrica.com^$important,ctag=device_securityalarm
+@@||yandex.st^$important,ctag=device_securityalarm
