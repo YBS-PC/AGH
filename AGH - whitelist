@@ -26,7 +26,7 @@
 @@||apple.com.akadns.net^
 @@||apple-dns.net^
 @@||appleid.apple.com^
-@@||appmetrica.yandex.net^
+####@@||appmetrica.yandex.net^
 @@||apps.skype.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
@@ -218,10 +218,10 @@
 @@||r.mail.ru^
 @@||raw.githubusercontent.com^
 @@||redirector.googlevideo.com^
-@@||report.appmetrica.yandex.net^
+####@@||report.appmetrica.yandex.net^
 @@||reports.wes.df.telemetry.microsoft.com^
 @@||res.cloudinary.com^
-@@||resize.yandex.net^
+####@@||resize.yandex.net^
 @@||router.asus.com^
 @@||rshb.ru^
 @@||s.gateway.messenger.live.com^
@@ -294,7 +294,7 @@
 @@||xkms.xboxlive.com^
 @@||xpu.samsungelectronics.com^
 @@||xsts.auth.xboxlive.com^
-@@||yandex.st^
+####@@||yandex.st^
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||zee.cws.conviva.com^
@@ -306,11 +306,11 @@
 ##@@||app-measurement.com^
 #
 #
-@@||yandexmetrica.com^
+####@@||yandexmetrica.com^
 ##@@||googletagmanager.com^
-@@||startup-mobile.ap.yandex-net.ru^
-@@||startup.mobile.yandex.net^
-@@||redirect.appmetrica.yandex.com^
+####@@||startup-mobile.ap.yandex-net.ru^
+####@@||startup.mobile.yandex.net^
+####@@||redirect.appmetrica.yandex.com^
 #
 #
 @@||unity3d.com^
