@@ -26,3 +26,14 @@
 @@||yandex-net.ru^$important,ctag=device_securityalarm
 @@||yandexmetrica.com^$important,ctag=device_securityalarm
 @@||yandex.st^$important,ctag=device_securityalarm
+##
+##
+# device_phone
+@@||consultant.ru^$important,ctag=device_phone
+@@||cons-plus.ru^$important,ctag=dek okvice_phone
+@@||usoft.ru^$important,ctag=device_phone
+@@||consrobot.by^$important,ctag=device_phone
+@@||adobe.com^$important,ctag=device_phone
+@@||adobe.io^$important,ctag=device_phone
+@@||adobegenuine.com^$important,ctag=device_phone
+@@||acrobat.com^$important,ctag=device_phone
