@@ -327,3 +327,8 @@
 #
 @@||mail.radar.imgsmail.ru^
 @@||top-fwz1.mail.ru^
+#
+#@@||ssl.google-analytics.com^$important
+@@||entitlements.jwplayer.com^$important
+#@@||sb.scorecardresearch.com^$important
+@@||prd.jwpltx.com^$important
