@@ -1,6 +1,8 @@
 ! Title: AGH - whitelist
 ! Description: Whitelist generated from various sources with basic domain blocking/exception rules for use with AdGuard Home.
 #
+@@||getui.com^
+#
 @@||0.client-channel.google.com^
 @@||1.1.1.1^
 @@||1.1.1.2^
