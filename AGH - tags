@@ -37,3 +37,18 @@
 @@||adobe.io^$important,ctag=device_phone
 @@||adobegenuine.com^$important,ctag=device_phone
 @@||acrobat.com^$important,ctag=device_phone
+##
+##
+# Block TG for child
+||t.me^$important,ctag=user_child
+||tdesktop.com^$important,ctag=user_child
+||telega.one^$important,ctag=user_child
+||telegra.ph^$important,ctag=user_child
+||telegram-cdn.org^$important,ctag=user_child
+||telegram.dog^$important,ctag=user_child
+||telegram.me^$important,ctag=user_child
+||telegram.org^$important,ctag=user_child
+||telegram.space^$important,ctag=user_child
+||telesco.pe^$important,ctag=user_child
+||tg.dev^$important,ctag=user_child
+||tx.me^$important,ctag=user_child
