@@ -222,3 +222,8 @@
 @@||identity.nel.measure.office.net^$important
 @@||browser.events.data.msn.com^$important
 @@||bat.bing.com^$important
+#
+# device_pc
+@@||msn.com^$important,ctag=device_pc
+@@||bing.com^$important,ctag=device_pc
+@@||clarity.ms^$important,ctag=device_pc
