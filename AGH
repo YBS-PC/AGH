@@ -1,6 +1,8 @@
 ! Title: AGH 
 ! Description: rules for use with AdGuard Home.
 #
+@@||hosted-by-vdsina.ru^$important
+#
 @@||getui.com^
 #
 @@||act.account.xiaomi.com^
