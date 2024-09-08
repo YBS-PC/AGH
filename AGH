@@ -254,5 +254,7 @@
 ||*.top^
 ||playerok.com^
 ||vavadad0ma.com^
-||iqbroker.com^
-||under.nnmclub.to^
+||iqbroker.com^$important
+||under.nnmclub.to^$important
+||iqoption.com^$important
+||jetton.to^
