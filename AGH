@@ -277,7 +277,8 @@
 ||vivox.com^
 @@||rutrk.org^$important
 #
-#||games-sdk.yandex.ru^$important,ctag=user_child,ctag=device_phone
-#||games.yandex.ru^$important,ctag=user_child,ctag=device_phone
-#||games.s3.yandex.net^$important,ctag=user_child,ctag=device_phone
+||games-sdk.yandex.ru^$important,ctag=user_child,ctag=device_phone|device_tablet
+||games.yandex.ru^$important,ctag=user_child,ctag=device_phone|device_tablet
+||games.s3.yandex.net^$important,ctag=user_child,ctag=device_phone|device_tablet
 ##||games.kids.yandex.net^$important,ctag=user_child
+||FunPay.com^$important
