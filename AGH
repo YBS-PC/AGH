@@ -276,3 +276,8 @@
 ||boltgaming.io^
 ||vivox.com^
 @@||rutrk.org^$important
+#
+#||games-sdk.yandex.ru^$important,ctag=user_child
+#||games.yandex.ru^$important,ctag=user_child
+#||games.s3.yandex.net^$important,ctag=user_child
+##||games.kids.yandex.net^$important,ctag=user_child
