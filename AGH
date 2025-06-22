@@ -281,8 +281,8 @@
 ||games.yandex.ru^$important,ctag=user_child,ctag=device_phone|device_tablet
 ||games.s3.yandex.net^$important,ctag=user_child,ctag=device_phone|device_tablet
 ##||games.kids.yandex.net^$important,ctag=user_child
-||FunPay.com^$important
-||boltgaming.io^$important
-||unity3d.com^$important
-||vungle.com^$important
-||applovin.com^$important
+||FunPay.com^$important,ctag=user_child
+||boltgaming.io^$important,ctag=user_child
+||unity3d.com^$important,ctag=user_child
+||vungle.com^$important,ctag=user_child
+||applovin.com^$important,ctag=user_child
