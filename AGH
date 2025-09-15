@@ -287,3 +287,6 @@
 ||vungle.com^$important,ctag=user_child
 ||applovin.com^$important,ctag=user_child
 ||fandom.com^$important,ctag=user_child
+#
+@@||yastatic.net^$important
+@@||mc.yandex.ru^$important
