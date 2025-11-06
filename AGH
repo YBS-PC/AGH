@@ -286,7 +286,7 @@
 ||unity3d.com^$important,ctag=user_child
 ||vungle.com^$important,ctag=user_child
 ||applovin.com^$important,ctag=user_child
-||fandom.com^$important,ctag=user_child
+||fandom.com^$important,ctag=user_child,ctag=device_phone
 #
 @@||yastatic.net^$important
 @@||mc.yandex.ru^$important
