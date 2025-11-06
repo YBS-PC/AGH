@@ -288,6 +288,11 @@
 ||applovin.com^$important,ctag=user_child
 ||fandom.com^$important,ctag=user_child,ctag=device_phone
 #
+@@||azr.footprintdns.com^$important,ctag=device_pc
+@@||epicgames.com^$important,ctag=device_pc
+@@||statsigapi.net^$important,ctag=device_pc
+@@||scorecardresearch.com^$important,ctag=device_pc
+#
 @@||yastatic.net^$important
 @@||mc.yandex.ru^$important
 @@||googletagmanager.com^$important
