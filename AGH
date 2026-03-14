@@ -254,7 +254,7 @@
 @@||startup.mobile.yandex.net^$important
 @@||api.events.plus.yandex.net^$important
 @@||report.appmetrica.yandex.net^$important
-@@||whatsapp.net^$important
-@@||whatsapp.com^$important
-@@||fbcdn.net^$important
-@@||fbsbx.com^$important
+#@@||whatsapp.net^$important
+#@@||whatsapp.com^$important
+#@@||fbcdn.net^$important
+#@@||fbsbx.com^$important
