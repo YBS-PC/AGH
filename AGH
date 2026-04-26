@@ -261,7 +261,7 @@
 
 
 #--------mail-----------#
-@@||xray.mail.ru^$important
-@@||imgsmail.ru^$important
-@@||an.mail.ru^$important
+#@@||xray.mail.ru^$important
+#@@||imgsmail.ru^$important
+#@@||an.mail.ru^$important
 #----------------------#
