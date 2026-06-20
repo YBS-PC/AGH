@@ -1,5 +1,8 @@
-! Description: rules for use with AdGuard Home.
-! Title: AGH 
+
+! Description: rules for use with AdGuard Home
+! Title: AGH
+! ^$important,ctag=user_child,ctag=device_phone
+#
 @@||acrobat.com^$important,ctag=device_phone
 @@||acronis.com^$important,ctag=device_phone
 @@||act.account.xiaomi.com^
@@ -14,8 +17,10 @@
 @@||adobelogin.com^$important,ctag=device_phone
 @@||an.yandex.ru^$important
 @@||analytics.google.com^$important
+@@||api.events.plus.yandex.net^$important
 @@||app-analytics-services.com^$important
 @@||app-measurement.com^$important,ctag=device_securityalarm
+@@||apple.com^$important
 @@||azr.footprintdns.com^$important,ctag=device_pc
 @@||bat.bing.com^$important
 @@||bing.com^$important,ctag=device_pc
@@ -28,9 +33,11 @@
 @@||corel.com^$important,ctag=device_phone
 @@||crashlyticsreports-pa.googleapis.com^$important
 @@||csdnevnik.ru^$important
+@@||dit.whatsapp.net^$important
 @@||dyson.tt.omtrdc.net^$important
 @@||entitlements.jwplayer.com^$important
 @@||epicgames.com^$important,ctag=device_pc
+@@||firebase-settings.crashlytics.com^$important
 @@||getui.com^
 @@||google-analytics.com^$important
 @@||google.com^$important,ctag=device_securityalarm
@@ -39,6 +46,7 @@
 @@||googletagmanager.com^$important,ctag=device_securityalarm
 @@||hosted-by-vdsina.ru^$important
 @@||i.ytimg.com^$important,ctag=device_securityalarm
+@@||icloud.com^$important
 @@||identity.nel.measure.office.net^$important
 @@||infourok.ru^$important
 @@||logx.optimizely.com^$important
@@ -47,15 +55,18 @@
 @@||metrika.yandex.ru^$important
 @@||msn.com^$important,ctag=device_pc
 @@||phpbbex.com
+@@||plex.tv^$important
 @@||practivate.adobe^$important,ctag=device_phone
 @@||prd.jwpltx.com^$important
 @@||qwen.ai^$important
+@@||report.appmetrica.yandex.net^$important
 @@||rutrk.org^$important
 @@||samsung.com^$important
 @@||samsungiotcloud.com^$important
 @@||scorecardresearch.com^$important,ctag=device_pc
 @@||selcdn.ru^$important
 @@||smartthings.com^$important
+@@||startup.mobile.yandex.net^$important
 @@||static.cloudflareinsights.com^$important
 @@||statsigapi.net^$important,ctag=device_pc
 @@||swrve.com^
@@ -69,6 +80,8 @@
 @@||yandex.st^$important,ctag=device_securityalarm
 @@||yandexmetrica.com^$important,ctag=device_securityalarm
 @@||yastatic.net^$important
+#
+#----------------------#
 #
 ||*.top^
 ||acrobat.com^$important,ctag=device_pc
@@ -128,10 +141,10 @@
 ||cs.luckyorange.com^
 ||cs.luckyorange.net^
 ||digiaff.offerstrack.net^
+||elyplay.ru^$important
 ||emtrek.org^
 ||ercoyintu.com^
 ||extensoft.com^
-#||fandom.com^$important,ctag=user_child,ctag=device_phone
 ||fandom.com^$important
 ||fon.bet^
 ||forumyuristov.ru^
@@ -191,8 +204,15 @@
 ||pushcleansystem.com^
 ||pushwelcome.com^
 ||rbfxdirect.com^
+||rblx.com^$important
+||rbx.com^$important
+||rbxcdn.com^$important
+||rbxlabs.com^$important
 ||roblox.com.edgekey.net^$important
 ||roblox.com^$important
+||robloxapp.com^$important
+||robloxgames.com^$important
+||robloxlabs.com^$important
 ||s.click.aliexpress.com^
 ||saztirulo.com^
 ||scatrouting.com^
@@ -252,23 +272,3 @@
 ||yhb.p.otm-r.com^
 ||yourbestbro1s.site^
 ||zdravselhoz.com^
-@@||startup.mobile.yandex.net^$important
-@@||api.events.plus.yandex.net^$important
-@@||report.appmetrica.yandex.net^$important
-#@@||whatsapp.net^$important
-#@@||whatsapp.com^$important
-#@@||fbcdn.net^$important
-#@@||fbsbx.com^$important
-
-
-#--------mail-----------#
-#@@||xray.mail.ru^$important
-#@@||imgsmail.ru^$important
-#@@||an.mail.ru^$important
-#----------------------#
-
-@@||apple.com^$important
-@@||icloud.com^$important
-@@||firebase-settings.crashlytics.com^$important
-@@||dit.whatsapp.net^$important
-@@||plex.tv^$important
