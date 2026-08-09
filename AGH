@@ -102,7 +102,7 @@
 ||advertising.yandex.ru^$important
 ||ali-crm.ru^
 ||amoffat.github.io^
-||applovin.com^$important,ctag=user_child
+#||applovin.com^$important,ctag=user_child
 ||ar-bg.ru^
 ||aritcametu.com^
 ||auction.unityads.unity3d.com^
@@ -113,8 +113,8 @@
 ||bitrix.slfarma.ru^
 ||blizzard.com^$important,ctag=user_child,ctag=device_phone
 ||blog.halalgoogling.com^
-||boltgaming.io^
-||boltgaming.io^$important,ctag=user_child
+#||boltgaming.io^
+#||boltgaming.io^$important,ctag=user_child
 ||bongacams10.com^
 ||bropu2.com^
 ||browser.sentry-cdn.com^
@@ -244,10 +244,10 @@
 ||tx.me^$important,ctag=user_child
 ||ubar.su^
 ||under.nnmclub.to^$important
-||unity3d.com.edgekey.net^$important,ctag=user_child,ctag=device_phone
-||unity3d.com^$important,ctag=user_child
-||unity3d.com^$important,ctag=user_child,ctag=device_phone
-||unity3dusercontent.com.edgesuite.net^$important,ctag=user_child,ctag=device_phone
+#||unity3d.com.edgekey.net^$important,ctag=user_child,ctag=device_phone
+#||unity3d.com^$important,ctag=user_child
+#||unity3d.com^$important,ctag=user_child,ctag=device_phone
+#||unity3dusercontent.com.edgesuite.net^$important,ctag=user_child,ctag=device_phone
 ||upload.luckyorange.com^
 ||upload.luckyorange.net^
 ||usoft.ru^
