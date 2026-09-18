@@ -83,6 +83,7 @@
 #----------------------#
 #
 ||*.top^
+||*.xyz^
 ||acrobat.com^$important,ctag=device_pc
 ||acronis.com^$important,ctag=device_pc
 ||ad-ru.p.otm-r.com^
