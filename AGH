@@ -1,6 +1,7 @@
 ! Description: rules for use with AdGuard Home
 ! Title: AGH
-! ^$important,ctag=user_child,ctag=device_phone
+! Несколько тегов — через «|»: $important,ctag=user_child|device_phone
+! (два «ctag=» подряд не складываются: действует только последний)
 #
 @@||acrobat.com^$important,ctag=device_phone
 @@||acronis.com^$important,ctag=device_phone
@@ -14,17 +15,20 @@
 @@||adobeereg.com^$important,ctag=device_phone
 @@||adobegenuine.com^$important,ctag=device_phone
 @@||adobelogin.com^$important,ctag=device_phone
+@@||amplitude.com^$important
 @@||an.yandex.ru^$important
 @@||analytics.google.com^$important
 @@||api.events.plus.yandex.net^$important
+@@||api.segment.io^$important
 @@||app-analytics-services.com^$important
 @@||app-measurement.com^$important,ctag=device_securityalarm
 @@||apple.com^$important
+@@||appsflyersdk.com^$important
 @@||azr.footprintdns.com^$important,ctag=device_pc
 @@||bat.bing.com^$important
 @@||bing.com^$important,ctag=device_pc
 @@||browser.events.data.msn.com^$important
-@@||c.bing.com^$important^
+@@||c.bing.com^$important
 @@||clarity.ms^$important,ctag=device_pc
 @@||cons-plus.ru^$important,ctag=device_phone
 @@||consrobot.by^$important,ctag=device_phone
@@ -42,7 +46,6 @@
 @@||google.com^$important,ctag=device_securityalarm
 @@||googleapis.com^$important,ctag=device_securityalarm
 @@||googletagmanager.com^$important
-@@||googletagmanager.com^$important,ctag=device_securityalarm
 @@||hosted-by-vdsina.ru^$important
 @@||i.ytimg.com^$important,ctag=device_securityalarm
 @@||icloud.com^$important
@@ -53,7 +56,8 @@
 @@||mc.yandex.ru^$important
 @@||metrika.yandex.ru^$important
 @@||msn.com^$important,ctag=device_pc
-@@||phpbbex.com
+@@||mybuddy.ai^$important
+@@||phpbbex.com^
 @@||plex.tv^$important
 @@||practivate.adobe^$important,ctag=device_phone
 @@||prd.jwpltx.com^$important
@@ -67,7 +71,7 @@
 @@||smartthings.com^$important
 @@||startup.mobile.yandex.net^$important
 @@||static.cloudflareinsights.com^$important
-@@||statsigapi.net^$important,ctag=device_pc
+@@||statsigapi.net^$important
 @@||swrve.com^
 @@||top-fwz1.mail.ru^
 @@||unity3d.com^
@@ -97,7 +101,7 @@
 ||adobeereg.com^$important,ctag=device_pc
 ||adobegenuine.com^$important,ctag=device_pc
 ||adobelogin.com^$important,ctag=device_pc
-||adserver.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^$important
 ||adtech.yahooinc.com^
 ||adultsonly.pro^
 ||advertising.yandex.ru^$important
@@ -106,13 +110,14 @@
 #||applovin.com^$important,ctag=user_child
 ||ar-bg.ru^
 ||aritcametu.com^
-||auction.unityads.unity3d.com^
-||battle.net^$important,ctag=user_child,ctag=device_phone
+||auction.unityads.unity3d.com^$important
+||battle.net^$important,ctag=user_child
+||beebounder.com^
 ||best.aliexpress.com^
 ||best.aliexpress.ru^
 ||beyblade.ru.com^
 ||bitrix.slfarma.ru^
-||blizzard.com^$important,ctag=user_child,ctag=device_phone
+||blizzard.com^$important,ctag=user_child
 ||blog.halalgoogling.com^
 #||boltgaming.io^
 #||boltgaming.io^$important,ctag=user_child
@@ -131,7 +136,7 @@
 ||clicktroute.com^
 ||complexcare.biz^
 ||computer76.ru^
-||config.unityads.unity3d.com^
+||config.unityads.unity3d.com^$important
 ||cons-plus.ru^$important,ctag=device_pc
 ||consrobot.by^$important,ctag=device_pc
 ||consultant.ru^$important,ctag=device_pc
@@ -154,7 +159,6 @@
 ||funpay.com^$important
 ||geekbuying.com^
 ||geesepuff.com^
-||getad.xyz^
 ||gnxarcy.cn^
 ||hotjar.com^
 ||innersloth.com^
@@ -216,7 +220,6 @@
 ||s.click.aliexpress.com^
 ||saztirulo.com^
 ||scatrouting.com^
-||selcdn.ru^
 ||sessions.bugsnag.com^
 ||settings.luckyorange.com^
 ||settings.luckyorange.net^
@@ -252,7 +255,6 @@
 ||upload.luckyorange.com^
 ||upload.luckyorange.net^
 ||usoft.ru^
-||usoft.ru^$important,ctag=device_pc
 ||v-kosmose.com^
 ||vavadacbxz.com^
 ||vavadad0ma.com^
@@ -260,11 +262,11 @@
 ||vivox.com^
 ||vungle.com^$important,ctag=user_child
 ||w1.luckyorange.com^
-||wbagora.com^$important,ctag=user_child,ctag=device_phone
-||wbinsights.com^$important,ctag=user_child,ctag=device_phone
+||wbagora.com^$important,ctag=user_child
+||wbinsights.com^$important,ctag=user_child
 ||web-zarabotok.info^
 ||weblife.goodly.pro^
-||webview.unityads.unity3d.com^
+||webview.unityads.unity3d.com^$important
 ||wemoneyttr.com^
 ||wemyprosttr.com^
 ||weplayingttr.com^
@@ -272,9 +274,3 @@
 ||yhb.p.otm-r.com^
 ||yourbestbro1s.site^
 ||zdravselhoz.com^
-@@||appsflyersdk.com^$important
-@@||mybuddy.ai^$important
-@@||statsigapi.net^$important
-@@||api.segment.io^$important
-@@||amplitude.com^$important
-||beebounder.com^
